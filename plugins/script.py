@@ -4,7 +4,7 @@ class Translation(object):
 
     START_TEXT = """👋 Hᴇʟʟᴏ {} 
 
-ⵊ Aᴍ Tᴇʟᴇɢʀᴀᴍ URL Uᴘʟᴏᴀᴅᴇʀ Bᴏᴛ.
+ⵊ Am Revolt Uploader Bᴏᴛ.
 
 **Sᴇɴᴅ ᴍᴇ ᴀ ᴅɪʀᴇᴄᴛ ʟɪɴᴋ ᴀɴᴅ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀs ᴀ ꜰɪʟᴇ/ᴠɪᴅᴇᴏ**
 
@@ -30,13 +30,13 @@ Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍ
     
     ABOUT_TEXT ="""
 ╭───────────⍟
-├📛 **Mʏ Nᴀᴍᴇ** : URL Uᴘʟᴏᴀᴅᴇʀ Bᴏᴛ
-├📢 **Fʀᴀᴍᴇᴡᴏʀᴋ** : <a href=https://docs.pyrogram.org/>Pʏʀᴏꜰᴏʀᴋ 2.3.58</a>
-├💮 **Lᴀɴɢᴜᴀɢᴇ** : <a href=https://www.python.org>Pʏᴛʜᴏɴ 3.13.2</a>
-├💾 **Dᴀᴛᴀʙᴀsᴇ** : <a href=https://cloud.mongodb.com>MᴏɴɢᴏDB</a>
-├🚨 **Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : <a href=https://t.me/NT_BOTS_SUPPORT>Nᴛ Sᴜᴘᴘᴏʀᴛ</a>
-├🥏 **Cʜᴀɴɴᴇʟ** : <a href=https://t.me/NT_BOT_CHANNEL>Nᴛ Bᴏᴛ Cʜᴀɴɴᴇʟ</a>
-├👨‍💻 **Cʀᴇᴀᴛᴇʀ** :  @NT_BOT_CHANNEL
+├📛 **MY NAME** : Revolt Uᴘʟᴏᴀᴅᴇʀ Bᴏᴛ
+├📢 **FRAMEWORK** : <a href=https://docs.pyrogram.org/>Pʏʀᴏꜰᴏʀᴋ 2.3.58</a>
+├💮 **LANGUAGE** : <a href=https://www.python.org>Pʏᴛʜᴏɴ 3.13.2</a>
+├💾 **DATABASE** : <a href=https://cloud.mongodb.com>MᴏɴɢᴏDB</a>
+├🚨 **INFO BOT** : <a href=https://t.me/revoltbotinfo>INFO BOT</a>
+├🥏 **CHANNEL** : <a href=https://t.me/revoltbotinfo>Bᴏᴛ Cʜᴀɴɴᴇʟ</a>
+├👨‍💻 **CREATOR** :  @xonzxrevolt
 ╰───────────────⍟
 """
 
