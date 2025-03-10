@@ -1,5 +1,5 @@
 {
-  "name": "Uploader Bot V4 🚀",
+  "name": "Revolt Uploader Bot 🚀",
   "description": "Telegram's best Open Source Url Uploader Bot. Fork now.",
   "logo": "https://te.legra.ph/file/82c925ccc38606d837831.jpg",
   "keywords": [
@@ -13,7 +13,7 @@
     "remote",
     "uploader"
   ],
-  "website": "https://t.me/UploadLinkToFileBot",
+  "website": "https://t.me/RevoltUploaderBot",
   "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V4",
   "env": {
     "WEBHOOK": {
