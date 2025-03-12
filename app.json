@@ -14,7 +14,7 @@
     "uploader"
   ],
   "website": "https://t.me/RevoltUploaderBot",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V4",
+  "repository": "https://github.com/XonZ-Codes/XonZ-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -46,7 +46,7 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "1834908260"
+      "value": "1033507217"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
